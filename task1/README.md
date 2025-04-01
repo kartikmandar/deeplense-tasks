@@ -87,6 +87,13 @@ The ConvNeXt V2 Tiny model performed exceptionally well:
 
 The per-class metrics confirmed robust performance across all three categories, with only minimal misclassifications noted in the confusion matrix. Visualizations such as training history, ROC curves, and the confusion matrix further validated the model's stability and effectiveness.
 
+## Model Weights
+
+You can download the pre-trained model weights for Task 1 from the link below:
+
+[Download Task1 Model](https://drive.google.com/file/d/1uaLVsV-xLv7fDwJmlwU8eBCe0f0WILwV/view?usp=sharing)
+
+
 ### Visualizations
 
 #### Training History

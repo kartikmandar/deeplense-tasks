@@ -87,6 +87,13 @@ Our fine-tuned ConvNeXt V2 Tiny model achieved strong results despite the severe
 - The model achieved a high **Recall (0.92)** for lenses, ensuring that most actual lenses are detected.
 - Although the **Precision for lenses (0.33)** is lower due to the high number of non-lens examples, the overall discriminative ability is confirmed by the excellent AUC.
 
+## Model Weights
+
+You can download the pre-trained model weights for Task 2 from the link below:
+
+[Download Task2 Model](https://drive.google.com/file/d/14U7lbo39qMqPoPSLAyHy_jGiEHa_3BVN/view?usp=sharing)
+
+
 ### Visualizations
 
 #### Training History
