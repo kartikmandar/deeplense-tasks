@@ -275,6 +275,11 @@ Individual model results include:
 
 The final results are also saved in CSV format: `model_comparison_task1_results_final.csv`
 
+### Model Weights
+
+All trained model weights are available for download from Google Drive:
+https://drive.google.com/drive/folders/1DwOVTB2IjXUZTEbIBWvxiRRdx2t_KtEe
+
 ## Key Findings
 
 According to the comparison results, ResNet34 achieved the highest Test AUC (OVR Macro) of 0.9942, closely followed by EfficientNet-B1 with 0.9937. While MobileNetV3 models were the fastest to train (due to both model size and GPU acceleration), they produced slightly lower AUC scores.
